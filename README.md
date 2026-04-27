@@ -24,7 +24,7 @@ A ready-to-fork foundation for AI-assisted academic work. You describe what you 
 
 ```bash
 # Fork this repo on GitHub (click "Fork" on the repo page), then:
-git clone https://github.com/YOUR_USERNAME/claude-code-my-workflow.git my-project
+git clone https://github.com/wucaibinfen666/claude-code-my-workflow.git my-project
 cd my-project
 ./scripts/validate-setup.sh        # reports missing tools with install links
 ```
